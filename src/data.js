@@ -1,39 +1,63 @@
 export const featuredPortfolio = [
     {
       id: 1,
-      title: "Social Media App",
+      title: "Java",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/04/java-1200.png",
     },
     {
       id: 2,
-      title: "Rampa UI Design",
+      title: "Spring boot",
       img:
-        "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
+        "https://azpanel.azilen.com/uploads/everything_must_know_spring_boot_application_scratch_12_8c4e62d4fe.jpg",
     },
     {
       id: 3,
-      title: "E-commerce Web Design",
+      title: "JavaScript",
       img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+        "https://static.javatpoint.com/images/javascript/javascript_logo.png",
     },
     {
       id: 4,
-      title: "Relax Mobile App",
+      title: "React",
       img:
-        "https://cdn.dribbble.com/users/4095861/screenshots/15467417/media/d6a15c416626f12b31fa5ca1db192572.png?compress=1&resize=1200x900",
+        "https://pbs.twimg.com/card_img/1620440042882711558/Cscpjswt?format=png&name=medium",
     },
     {
       id: 5,
-      title: "Hero Web Design",
+      title: "HTML/CSS",
       img:
-        "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+        "https://www.techrepublic.com/wp-content/uploads/2022/07/html-css-beginners.jpg?x27457",
     },
     {
       id: 6,
-      title: "Banking App",
+      title: "Github",
       img:
-        "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
+        "https://www.freecodecamp.org/news/content/images/2022/07/git-github.png",
+    },
+    {
+      id: 7,
+      title: "SQL",
+      img:
+        "https://www.simplilearn.com/ice9/free_resources_article_thumb/Concat_in_SQL.jpg",
+    },
+    {
+      id: 8,
+      title: "Data Structure and Algorithms",
+      img:
+        "https://media.licdn.com/dms/image/C4D12AQFeqZIrL2SG3w/article-cover_image-shrink_720_1280/0/1526915102578?e=2147483647&v=beta&t=aCOuYKQ8jPRb-I_g72FpAcrouKBHgbuOOpwMFG-M3LE",
+    },
+    {
+      id: 9,
+      title: "Google Firebase",
+      img:
+        "https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png",
+    },
+    {
+      id: 10,
+      title: "Spring MVC",
+      img:
+        "https://javainterviewpoint.com/wp-content/uploads/2019/02/Spring-MVC-Tutorial.png",
     },
   ];
   

@@ -6,6 +6,16 @@ export default function Works() {
   const data = [
     {
       id: "1",
+      icon: "./assets/ecommerce.png",
+      title: "Amazon clone",
+      desc:
+        " Amazon’s e-commerce website clone",
+      img:
+        "./apps/amazon-clone.PNG",
+        link: "https://clone-73ad5.web.app/",
+    },
+    {
+      id: "2",
       icon: "./assets/mobile.png",
       title: "Snake Game",
       desc:
@@ -15,25 +25,16 @@ export default function Works() {
       link: "https://appsnakegame.netlify.app",
     },
     {
-      id: "2",
+      id: "3",
       icon: "./assets/globe.png",
       title: "Movie App",
       desc:
-        "The movie app is basically a project focuses on the web Api calls. Here the user needs to search a movie and based on the keyword entered",
+        "The movie app is basically a project focuses on the web Api calls. Here the user needs to search a movie and based on the keyword entered app provides suggestions",
       img:
         "./apps/movieapp.PNG",
         link: "https://movieappwebapi.netlify.app",
     },
-    {
-      id: "3",
-      icon: "./assets/writing.png",
-      title: "Branding",
-      desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      img:
-        "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
-        link: "https://appsnakegame.netlify.app",
-    },
+
   ];
 
   const handleClick = (way) => {

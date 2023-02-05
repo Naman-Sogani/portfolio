@@ -36,12 +36,12 @@ export default function Topbar({menuOpen, setMenuOpen}) {
                 </div>
 
                 <div className='itemContainer'>
-                <a href="https://www.linkedin.com/in/naman-sogani/">
+                <a target="_blank" href="https://www.linkedin.com/in/naman-sogani/">
                   <LinkedIn className='icon' />
                   </a>
                 </div>
                 <div className='itemContainer'>
-                <a href="https://github.com/Naman-Sogani">
+                <a target="_blank" href="https://github.com/Naman-Sogani">
                   <GitHub className='icon' />
                   </a>
                 </div>
