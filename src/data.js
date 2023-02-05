@@ -59,6 +59,18 @@ export const featuredPortfolio = [
       img:
         "https://javainterviewpoint.com/wp-content/uploads/2019/02/Spring-MVC-Tutorial.png",
     },
+    {
+      id: 11,
+      title: "Bootstrap",
+      img:
+        "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1130064/REDESIGN-Speeding-up-Application-Development-with-Bootstrap-Luke_Social-3b49f4c2abf94e39b2f311ed9f0c3785.png",
+    },
+    {
+      id: 12,
+      title: "Material UI",
+      img:
+        "https://mui.com/static/logo.png",
+    },
   ];
   
   export const webPortfolio = [

@@ -7,7 +7,7 @@ export default function Topbar({menuOpen, setMenuOpen}) {
 
   const onButtonClick = () => {
     // using Java Script method to get PDF file
-    fetch('Naman Sogani_10690967.pdf').then(response => {
+    fetch("Naman's Resume.pdf").then(response => {
         response.blob().then(blob => {
             // Creating new object of PDF file
             const fileURL = window.URL.createObjectURL(blob);
